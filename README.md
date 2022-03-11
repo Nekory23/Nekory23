@@ -24,8 +24,8 @@
 | Unix Programming - Memory + Instrumentation (C) | [malloc](https://github.com/Nekory23/malloc) - [nm / objdump](https://github.com/Nekory23/nm-objdump) - [strace](https://github.com/Nekory23/strace) - [ftrace](https://github.com/Nekory23/ftrace) |
 | Functional programming (haskell)                | [Wolfram](https://github.com/Nekory23/Wolfram) - [Image compressor](https://github.com/Nekory23/Image-Compressor) |
 | Object-Oriented Programming (C++)               | [NanoTekSpice]() - [Arcade]() |
-| Computer Numerical Analysis - Trading (C++)     | [Groundhog]() - [Trade]() |
-| Concurrent Programming (C++)                    | [Plazza]() |
+| Computer Numerical Analysis - Trading (C++)     | [Groundhog](https://github.com/Nekory23/Groundhog) - [Trade](https://github.com/Nekory23/Trade) |
+| Concurrent Programming (C++)                    | [Plazza](https://github.com/Nekory23/Plazza) |
 | Math (C / C++)                                  | [201yams]() - [202unsold]() - [203hotline]() - [204ducks]() - [205IQ]() - [206neutrinos]() - [207demography]() - [208dowels]() - [209poll]() |
 | Network programming (C)                         | [my_ftp]() - [my_teams]() |
 | x86-64 Assembly                                 | [miniLibC](https://github.com/Nekory23/MinilibC) |

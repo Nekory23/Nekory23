@@ -1,5 +1,6 @@
 ### Hi there 👋
-#### I am currently studying at Epitech Paris (3rd year) ^^'
+#### I am currently studying at Epitech Paris (4th year) ^^'
+#### I am currently in Keimyung university (South-Korea)
 
 [![Nekory23's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nekory23&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nekory23&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 

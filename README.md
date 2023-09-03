@@ -1,6 +1,5 @@
 ### Hi there 👋
-#### I am currently studying at Epitech Paris (4th year) ^^'
-#### I am currently in Keimyung university (South-Korea)
+#### I am currently studying at Epitech Paris (5th year) ^^
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nekory23&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)

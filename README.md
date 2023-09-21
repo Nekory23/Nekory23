@@ -26,9 +26,9 @@
 | Computer Numerical Analysis - Trading (C++)     | [Groundhog](https://github.com/Nekory23/Groundhog) - [Trade](https://github.com/Nekory23/Trade) |
 | Concurrent Programming (C++)                    | [Plazza](https://github.com/Nekory23/Plazza) |
 | Math (C / C++)                                  | [201yams](https://github.com/Nekory23/201yams) - [202unsold](https://github.com/Nekory23/202unsold) - [203hotline](https://github.com/Nekory23/203hotline) - [204ducks](https://github.com/Nekory23/204ducks) - [205IQ](https://github.com/Nekory23/205IQ) - [206neutrinos](https://github.com/Nekory23/206neutrinos) - [207demography](https://github.com/Nekory23/207demography) - [208dowels](https://github.com/Nekory23/208dowels) - [209poll](https://github.com/Nekory23/209poll) |
-| Network programming (C)                         | [my_ftp]() - [my_teams]() |
+| Network programming (C)                         | [my_ftp](https://github.com/Nekory23/my_ftp) - [my_teams](https://github.com/Nekory23/my_Teams) |
 | x86-64 Assembly                                 | [miniLibC](https://github.com/Nekory23/MinilibC) |
-| Year-end projects                               | [IndieStudio]() - [Zappy]() |
+| Year-end projects                               | [IndieStudio](https://github.com/Nekory23/IndieStudio/tree/main) - [Zappy](https://github.com/Nekory23/Zappy/tree/main) |
 | DevOps (Docker - Jenkins)                       | [popeye](https://github.com/Nekory23/Popeye) - [my_marvin](https://github.com/Nekory23/my_marvin) |
 
 ### Third year :

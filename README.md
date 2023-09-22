@@ -32,8 +32,15 @@
 | DevOps (Docker - Jenkins)                       | [popeye](https://github.com/Nekory23/Popeye) - [my_marvin](https://github.com/Nekory23/my_marvin) |
 
 ### Third year :
-| theme                       | Projects |
-|-----------------------------|----------|
+| Theme                       | Projects                    |
+|-----------------------------|-----------------------------|
+| Advanced C++                | [Babel]() [R-Type]()        |
+| Advanced DevOps             | [Whanos]() [Bernstein]()    |
+| Advanced Security           | [Chisel]()                  |
+| AppDev                      | [Dashboard]() [Redditech]() |
+| Artificial Intelligence     | [Gomoku]()                  |
+| Functionnal programming     | [EvalExpr]() [HAL]()        |
+| Mathematics                 | [301dannon]() [302separation]() [303make]() [304pacman]() [305construction]() [306radiator]() [307multigrains]() [308reedpipes]() [309pollution]()         |
 
 <!--
 **Nekory23/Nekory23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

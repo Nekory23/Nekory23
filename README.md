@@ -1,4 +1,4 @@
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=piyushP7pravin alt=piyushP7pravin> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Nekory23 alt=Nekory23> </p>
 
 <H1> Hi there 👋 </H1>
 <H3> 🌱 I am currently studying at Epitech Paris (5th year) ^^</H3>

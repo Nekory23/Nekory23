@@ -9,7 +9,7 @@
 
 <H2>Projects I'm proud of :</H2>
 
-![Video games](https://github.com/Nekory23/VideoGames)
+<a href="https://github.com/Nekory23/VideoGames">Video games</a>
 
 
 <H2> 💬 My inbox is always open, Contact me </H2>
